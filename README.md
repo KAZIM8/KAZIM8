@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<9--
-**KAZIM8/KAZIM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪅 accounts 🪅 /
+├── @HITHON /
+|   ├── @VCVVVC /
+│   |   ├── @YTLTY
+|   ├── @VS9Ll /
+│   |   ├── @MTHONBOT /
+|   |   ├── @UIL_26
+|   ├── @9TT84 /
+│   |   ├── @YEEY3 /
+|   |   ├── @KZ33Z /
+|   |   ├── @VCVVCC /
+|   |   |    ├── @KAIZM8
+|   |   ├── @EROR /
+|   ├── @EROR [git](https://telegra.ph/file/a80e94aa98216bbeb73d8.gif)
